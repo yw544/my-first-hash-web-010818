@@ -31,5 +31,6 @@ def adding
 
   #your code here
   #remember to return the shipping_manifest hash
-
+shipping_manifest["pearl necklace"]=1
+shipping_manifest
 end
